@@ -2,7 +2,7 @@
 <img align="right" alt="GIF" src="https://github.com/SohamPatel0810/Soham-Portfolio/blob/main/Portfolio/images/hero.svg" width="470" height="500"/>
 <p align="left"> <img   src="https://komarev.com/ghpvc/?username=SohamPatel0810" alt="SohamPatel0810" /> </p>
 <h3> 👨🏻‍💻 About Me </h3>
-- 🌱 I’m currently learning Web Development and DataScience.<br>
+- 🌱 I’m currently learning Web Development and Data Science.<br>
 - 🔎 Researching in the field of Machine Learning and Computer Science.<br>
 - 🤔 Exploring newer technologies.<br>
 - 🎓 Studying Computer Science, Computer Programming and Mathematics.<br> 
