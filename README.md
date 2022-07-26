@@ -1,5 +1,5 @@
 <h2> Hey there! I'm Soham. 👋
-<img align="right" alt="GIF" src="https://github.com/SohamPatel0810/Soham-Portfolio/blob/main/Portfolio/images/hero.svg" width="470" height="500"/>
+<img align="right" alt="GIF" src="https://github.com/SohamPatel0810/Soham-Portfolio/blob/main/images/hero.svg" width="470" height="500"/>
 <p align="left"> <img   src="https://komarev.com/ghpvc/?username=SohamPatel0810" alt="SohamPatel0810" /> </p>
 <h3> 👨🏻‍💻 About Me </h3>
 - 🌱 I’m currently learning Web Development and Data Science.<br>
